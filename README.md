@@ -3,10 +3,10 @@ An implementation of Conway's Game of Life using Java and a DrawingPanel class (
 
 # Keybinds:
 
-Scroll to zoom in/out\n
-P to pause\n
-U to unpause\n
-WASD to move around\n
-Click to manually invert a square\n
-1 to fill square at mouse cursor, can hold it and drag the mouse to draw\n
-2 to kill square at mouse cursor\n
+Scroll to zoom in/out<br />
+P to pause<br />
+U to unpause<br />
+WASD to move aroun<br />
+Click to manually invert a square<br />
+1 to fill square at mouse cursor, can hold it and drag the mouse to draw<br />
+2 to kill square at mouse cursor<br />
