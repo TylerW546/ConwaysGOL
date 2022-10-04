@@ -1,7 +1,7 @@
 # ConwaysGOL
 An implementation of Conway's Game of Life using Java and a DrawingPanel class (which I only made a few edits to from the existing online code).
 
-#Keybinds:
+# Keybinds:
 
 Scroll to zoom in/out
 P to pause
