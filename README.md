@@ -1,5 +1,5 @@
 # ConwaysGOL
-An implementation of Conway's Game of Life using Java and a DrawingPanel class (given to the class, but I made a few edits).
+An implementation of Conway's Game of Life using Java and a DrawingPanel class (taken from online open source, but I made a few edits).
 
 ## Keybinds:
 
